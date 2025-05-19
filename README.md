@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sprayash
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning CSS.
+- 🌱 I’m currently learning Java Script.
 - 💞️ I’m looking to collaborate on Projects of Web Deveplopment.
 - 📫 How to reach me email; thakurprayashsingh@gmail.com.
 - ⚡ Fun fact: A Enthusiastic Coder.
